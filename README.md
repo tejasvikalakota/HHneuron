@@ -1,5 +1,4 @@
-In this project, I aimed to compuationally model the anti-epileptic drug phenytoin through the Hodgkin Huxley Neuron. In order to do so referenced previous mathematical models of HH neuron, cited below, and I developed my own model in which I added multiple sodium chanel mathematical functions, and adjusted the paramters. I then simulated the neuron and visualized the spike train of a total of 3 spikes to understand how excitability in the brain is altered by the drug.  
-
+In this project, my objective was to computationally model the anti-epileptic drug phenytoin's effects on the Hodgkin Huxley Neuron. To achieve this, I referred to previous mathematical models of the HH neuron (cited below) and developed my own model. In my model, I incorporated multiple mathematical functions for sodium channels and adjusted various parameters. Subsequently, I simulated the neuron and visualized the spike train, observing a total of 3 spikes. This analysis aimed to provide insights into how the drug alters excitability in the brain.
 Citations:
 https://github.com/swharden/pyHH
 https://neuronaldynamics.epfl.ch/online/Ch2.S2.html
